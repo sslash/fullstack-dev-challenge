@@ -37,6 +37,21 @@ p {
 	color: #1D1F20;
 }
 
+button {
+	border-radius: 10px;
+    background: #00b2ff;
+    color: #fff;
+    font-weight: 700;
+    font-size: 16px;
+    padding: 25px 35px;
+    margin: 10px;
+    line-height: 2px !important;
+    outline: none;
+    display: inline-block;
+	cursor: pointer;
+	border: none;
+}
+
 .fmz-white-font {
 	color: #ffffff;
 }
@@ -53,4 +68,10 @@ p {
 .input-label {
 	margin-bottom: 4px;
 	margin-top: 12px;
+}
+.currencies {
+	padding: 20px;
+}
+.currency-radio {
+	margin: 10px;
 }
